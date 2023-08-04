@@ -1078,7 +1078,11 @@ h1 {
     font-size: 18px;
     line-height: 1.35;
     color: #ffffffea;
-
+    padding-left: 32px;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: contain;
 }
 
 @media(min-width: 992px) {
